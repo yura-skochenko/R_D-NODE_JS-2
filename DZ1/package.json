@@ -1,0 +1,21 @@
+{
+  "name": "DZ1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yura-skochenko/R_D-NODE_JS-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/yura-skochenko/R_D-NODE_JS-2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.2.0"
+  }
+}
